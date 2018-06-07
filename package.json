@@ -1,0 +1,11 @@
+{
+  "name": "nodetackapp",
+  "version": "1.0.0",
+  "description": "Node.js and MySQL app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RonGarlit",
+  "license": "MIT"
+}
