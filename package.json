@@ -9,6 +9,7 @@
   "author": "RonGarlit",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "express": "^4.16.3"
   }
 }
