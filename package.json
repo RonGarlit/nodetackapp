@@ -6,10 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonGarlit/nodetackapp"
+  },
   "author": "RonGarlit",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonGarlit/nodetackapp/issues"
+  },
+  "homepage": "https://github.com/RonGarlit/nodetackapp#readme",
   "dependencies": {
     "bootstrap": "^4.1.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
   }
 }
