@@ -18,8 +18,7 @@ app.get('/',function(req,res){
 })
 
 /* 
-As seen in the above code, when the / route is requested the home.html page is rendered. Save the above 
-changes and restart the server. 
+As seen in the above code, when the / route is requested the home.html page is rendered. 
 
 Point browser URL to http://localhost:3000 and you should be able to view the home page.
 */
